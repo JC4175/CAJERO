@@ -12,7 +12,7 @@ namespace CAJERO
         public string NOMBRE;
         public double PRECIO;
 
-        //CONSTRUCTOR PARA PRODUCTOS
+        //CONSTRUCTOR PARA PRODUCTOSFXGMGFNFSMFS
         public PRODUCTO(string NOMBRE, double PRECIO)
         {
             this.NOMBRE = NOMBRE;
